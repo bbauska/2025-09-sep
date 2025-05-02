@@ -6,7 +6,7 @@ table {
   width:70%; 
 }
 .month-header {
-  background-image:url("https://calendar-2025-may.bauska.org/images/andthegaynightlife-600px2.jpg");
+  background-image:url("https://calendar-2025-sep.bauska.org/images/andthegaynightlife-600px2.jpg");
   background-position:center center;
   background-repeat:no-repeat;
   background-size:cover;
@@ -67,90 +67,63 @@ ul {
     margin:5px 0;
 }
 
-.may-day {
+.labor {
     background-color:#e8e193;  /* very soft yellow */
 }
-.world-press-freedom {
+.cheese-pizza {
     background-color:#c2e7e7;  /* light grayish cyan */
 }
-.intl-firefighters {
+.natl-beer-lovers {
     background-color:#ff3333;  /* vivid red */
 }
-.starwars {
+.patriot {
     background-color:#ff9933;  /* vivid orange */
 }
-.world-laughter {
+.emmy {
     background-color:#ff3399;  /* vivid pink */
 }
-.natl-cinco-de-mayo {
+.constitution {
     background-color:#3399ff;  /* vivid blue */
 }
-.natl-nurses {
+.cheeseburger {
     background-color:#ff0000;  /* bright red */
 }
-.natl-teachers {
+.talk-like-pirate {
     background-color:#9933ff;  /* vivid violet */
 }
-.natl-rememberance {
+.batman {
     background-color:#ff8c1a;  /* vivid orange */
 }
-.world-migratory-bird {
+.pepperoni-pizza {
     background-color:#ffb21a;  /* vivid orange */
 }
-.mothers-day {
+.oktoberfest {
     background-color:#ff0000;  /* bright red */
 }
-.natl-chocolate-chip {
+.intl-dayofpeace {
     background-color:#9ab3ff;  /* pale blue */
 }
-.bike-to-work {
+.fall {
     background-color:#98fb98;  /* very soft lime green */
 }
-.endangered-species {
+.voter-registration {
     background-color:#a6f4ff;  /* pale cyan */
 }
-.armed-forces {
+.natl-daughters {
     background-color:#ffc0cb;  /* very pale red (pink) */
 }
-.natl-rescue-dog {
+.natl-pancake {
     background-color:#ffff00;  /* yellow */
 }
-.world-bee {
+.natl-choc-milk {
     background-color:#d3d3d3;  /* light gray */
 }
-.cultural-diversity {
+.natl-drink-beer {
     background-color:#00ff00;  /* dark green */
 }
-.red-nose {
+.natl-coffee {
     background-color:#cd00cd;  /* strong magenta */
 }
-.world-goth {
+.intl-podcast {
     background-color:#ccff9a;  /* pale green */
-}
-.world-turtle {
-    background-color:#ffd700;  /* gold */
-}
-.natl-brother {
-    background-color:#00ff00;  /* lime green */
-}
-.natl-wine {
-    background-color:#ba9ce8;  /* very soft violet */
-}
-.memorial {
-    background-color:#00eeee;  /* pure cyan */
-}
-.natl-burger {
-    background-color:#ff7e6d;  /* very light red */
-}
-.world-otter {
-    background-color:#afffad;  /* pale lime green */
-}
-.intl-day-un-peace {
-    background-color:#e8e193;  /* very soft yellow */
-}
-.world-ms {
-    background-color:#e8e993;  /* very soft yellow */
-}
-.world-no-tobacco {
-    background-color:#ff9a9a;  /* pale red (pink tone) */
 }
