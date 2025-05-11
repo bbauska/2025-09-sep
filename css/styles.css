@@ -40,7 +40,7 @@ h1 {
   border-color:#ddd;  /* very light gray */
   border-style:solid;
   letter-spacing:1px;
-  line-height:25px;
+  line-height:20px;  /* 25px; */
 }
 .week {
   background-color:#ffff00;  /* eaeaea = very light gray */
