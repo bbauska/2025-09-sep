@@ -105,6 +105,9 @@ a:hover::after {
 }
 
 <!-- World, National & International Days -->
+.labor-day {
+    background-color:#e893e8;  /* very soft magenta */
+}
 .labor {
     background-color:#e893e8;  /* very soft magenta */
 }
